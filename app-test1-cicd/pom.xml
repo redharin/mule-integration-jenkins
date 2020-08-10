@@ -27,6 +27,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHudDeployment>
+						<uri>https://anypoint.mulesoft.com</uri>
 						<userName>redharinja</userName>
 						<password>Hasr@143</password>
 						<environment>Sandbox</environment>
