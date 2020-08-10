@@ -26,6 +26,15 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
+					<cloudHudDeployment>
+						<userName>redharinja</userName>
+						<password>Hasr@143</password>
+						<environment>Sandbox</environment>
+						<workers>1</workers>
+						<workerType>Micro</workerType>
+						<applicationName>app-test1-cicd</applicationName>
+						<muleVersion>4.2.0</muleVersion>
+					</cloudHudDeployment>
 				</configuration>
 			</plugin>
 		</plugins>
